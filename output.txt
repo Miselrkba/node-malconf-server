@@ -1,0 +1,22 @@
+﻿
+{
+  "Loading File": "yjyhphbjziyg.exe",
+  "Found": "UPX",
+  "Running PreProcessor": "UPX",
+  "Detected": "Remcos",
+  "Campaign": "RemoteHost",
+  "Connection Delay": 0,
+  "Connection Interval": "5",
+  "Install Name": "remcos.exe",
+  "Keylog file": "logs.dat",
+  "domains": [
+    {
+      "c2:": "162.241.190.159",
+      "password": "",
+      "port": "1256"
+    }
+  ],
+  "mutex": "Remcos-KZ8LSG",
+  "screenshot Windows": "",
+  "version": "2.0.6 Pro"
+}
