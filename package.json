@@ -4,7 +4,10 @@
   "description": "serve dummy malconf output file",
   "main": "index.js",
   "license": "MIT",
-  "private": false,
+  "private": true,
+  "scripts": {
+    "start": "nodemon index.js"
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "csvtojson": "^2.0.10",
